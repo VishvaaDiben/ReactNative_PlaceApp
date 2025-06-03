@@ -58,6 +58,9 @@ A modern React Native app that lets users search for locations via Google Places
 4. **Run the app:**
     ```bash
     npx expo start
+
+5. **Scan the QR code from npx expo start to preview it, or contact me for apk file**
+
 ---
 
 ## 🧠 Features & Design Rationale
@@ -98,4 +101,10 @@ A modern React Native app that lets users search for locations via Google Places
 
 ## 📸 Screenshots <br />
 ![1000130594](https://github.com/user-attachments/assets/d43b72fe-0c35-4f9f-92d2-136f8933977e)
+
+---
+## 🚀 Contact
+For queries, please reach out to : <br />
+📧 Email: [dibenvishvaa@gmail.com](mailto:dibenvishvaa@gmail.com) <br />
+[![LinkedIn](https://cdn.jsdelivr.net/gh/Readme-Workflows/Readme-Icons@main/icons/linkedin.svg)] LinkedIn : https://www.linkedin.com/in/diben-thivagar-a76386137/
 
